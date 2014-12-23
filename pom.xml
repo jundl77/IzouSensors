@@ -4,17 +4,17 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId></groupId>
-    <artifactId></artifactId>
+    <groupId>jundl77.izou.izousensors</groupId>
+    <artifactId>izousensors</artifactId>
     <packaging>jar</packaging>
-    <version></version>
-    <name></name>
+    <version>0.1</version>
+    <name>Izou Sensors</name>
 
     <properties>
-        <plugin.id></plugin.id>
-        <plugin.class>path.to.the.ZipFileManager</plugin.class>
-        <plugin.version></plugin.version>
-        <plugin.provider></plugin.provider>
+        <plugin.id>jundl77.izou.izousensors</plugin.id>
+        <plugin.class>jundl77.izou.izousensors.ZipFileManager</plugin.class>
+        <plugin.version>0.1</plugin.version>
+        <plugin.provider>Julian Brendl</plugin.provider>
         <plugin.dependencies />
     </properties>
 
